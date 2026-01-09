@@ -2,7 +2,7 @@
 - ⚡ Physics is my passion, I'm looking for ways to apply my knowledge to real-world issues.
 - 🌱 I’m studying physics at UCSB.
 - 💞️ I’m also looking to collaborate on social and technological projects in general.
-- 📫 My Instagram is @eloi_alloy.
+- 📫 My Instagram is @eloi_alloy and I'm Eloi Prat Padró on Linkedin.
 
 <!---
 Dracvar06/Dracvar06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
